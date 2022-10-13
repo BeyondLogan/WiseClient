@@ -19,7 +19,7 @@ mkdir "Wise Client"
     mkdir installer
      cd installer
       curl -JL https://raw.githubusercontent.com/BeyondLogan/WiseClient/main/InstallCode/JavaInstall.bat \ --output JavaInstall.bat
-      
+
       echo.
       echo.
       echo We cant find if you have java or not so we have to run this script. if you have java installed start are java installer then dont type a nummber type m to skip the Java setup.
